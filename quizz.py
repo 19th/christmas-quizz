@@ -23,8 +23,8 @@ questions = [
     # Dmitrijevs Kirils
     {
         "question": "Ko tradicionali novieto zem Egliti?",
-        "options": ["a", "b", "c", "d"],
-        "correct_answer": "a"
+        "options": ["Konfiti", "Konfektes", "Davanas", "Neko"],
+        "correct_answer": "Davanas"
     },
     # Jevstifejevs Vladislavs
     {

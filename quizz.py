@@ -46,9 +46,9 @@ questions = [
     },
     # Kozinda Dmitrijs
     {
-        "question": "",
-        "options": ["a", "b", "c", "d"],
-        "correct_answer": "a"
+        "question": "Kāds dzīvnieks velk Ziemassvētku vecīša kamanas?",
+        "options": ["Lapsa", "Trusis", "Ezis", "Ziemeļbriedis"],
+        "correct_answer": "Ziemeļbriedis"
     },
     # Nosovs Artjoms
     {

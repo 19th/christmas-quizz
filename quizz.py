@@ -22,9 +22,9 @@ questions = [
     },
     # Dmitrijevs Kirils
     {
-        "question": "",
-        "options": ["a", "b", "c", "d"],
-        "correct_answer": "a"
+        "question": "Ko tradicionali novieto zem Egliti?",
+        "options": ["Konfeti", "Konfektes", "Davanas", "Neko"],
+        "correct_answer": "Davanas"
     },
     # Jevstifejevs Vladislavs
     {
@@ -86,11 +86,11 @@ questions = [
         "options": ["a", "b", "c", "d"],
         "correct_answer": "a"
     },
-    # Bogdanovs Ņikita
+    # Bogdanovs Ņikita  
     {
-        "question": "",
-        "options": ["a", "b", "c", "d"],
-        "correct_answer": "a"
+        "question": "Kuras krāsas parasti saistās ar Ziemassvētkiem?",
+        "options": ["balta, zaļa un sarkana", "melna un dzeltena", "zila, balta un zaļa", "sarkana, zila un roza"],
+        "correct_answer": "balta, zaļa un sarkana"
     },
     # Grigorenko Artjoms
     {
@@ -100,9 +100,9 @@ questions = [
     },
     # Mahajevs Maksims
     {
-        "question": "",
-        "options": ["a", "b", "c", "d"],
-        "correct_answer": "a"
+        "question": "Kas ir tradicionālais ēdiens, ko bieži ēd Ziemassvētkos Latvijā?",
+        "options": ["Pankūkas", "Piparkūkas", "Kliņģeris", "Kūka"],
+        "correct_answer": "Piparkūkas"
     },
     # Mieriņs Aleksandrs
     {
@@ -124,9 +124,9 @@ questions = [
     },
     # Švecs Kristians
     {
-        "question": "",
-        "options": ["a", "b", "c", "d"],
-        "correct_answer": "a"
+        "question": "Kurā gada tika izdota Klementa Mūra grāmata «Nakts pirms Ziemassvētkiem?»",
+        "options": ["1832", "1936", "1677", "1678"],
+        "correct_answer": "1832"
     },
     # Vasiļjeva Anastasija
     {

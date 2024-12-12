@@ -22,9 +22,9 @@ questions = [
     },
     # Dmitrijevs Kirils
     {
-        "question": "Ko tradicionali novieto zem Egliti?",
-        "options": ["Konfeti", "Konfektes", "Davanas", "Neko"],
-        "correct_answer": "Davanas"
+        "question": "",
+        "options": ["a", "b", "c", "d"],
+        "correct_answer": "a"
     },
     # Jevstifejevs Vladislavs
     {
@@ -46,14 +46,14 @@ questions = [
     },
     # Kozinda Dmitrijs
     {
-        "question": "Kāds dzīvnieks velk Ziemassvētku vecīša kamanas?",
-        "options": ["Lapsa", "Trusis", "Ezis", "Ziemeļbriedis"],
-        "correct_answer": "Ziemeļbriedis"
+        "question": "",
+        "options": ["a", "b", "c", "d"],
+        "correct_answer": "a"
     },
     # Nosovs Artjoms
     {
-        "question": "",
-        "options": ["a", "b", "c", "d"],
+        "question": "Kāds dzīvnieks būs 2025. gadā?",
+        "options": ["Čūska", "Bullis", "Zivs", "Žurka"],
         "correct_answer": "a"
     },
     # Rudņevs Dmitrijs
@@ -88,9 +88,9 @@ questions = [
     },
     # Bogdanovs Ņikita
     {
-        "question": "Kuras krāsas parasti saistās ar Ziemassvētkiem?",
-        "options": ["balta, zaļa un sarkana", "melna un dzeltena", "zila, balta un zaļa", "sarkana, zila un roza"],
-        "correct_answer": "balta, zaļa un sarkana"
+        "question": "",
+        "options": ["a", "b", "c", "d"],
+        "correct_answer": "a"
     },
     # Grigorenko Artjoms
     {
@@ -100,9 +100,9 @@ questions = [
     },
     # Mahajevs Maksims
     {
-        "question": "Kas ir tradicionālais ēdiens, ko bieži ēd Ziemassvētkos Latvijā?",
-        "options": ["Pankūkas", "Piparkūkas", "Kliņģeris", "Kūka"],
-        "correct_answer": "Piparkūkas"
+        "question": "",
+        "options": ["a", "b", "c", "d"],
+        "correct_answer": "a"
     },
     # Mieriņs Aleksandrs
     {
@@ -124,9 +124,9 @@ questions = [
     },
     # Švecs Kristians
     {
-        "question": "Kurā gada tika izdota Klementa Mūra grāmata «Nakts pirms Ziemassvētkiem?»",
-        "options": ["1832", "1936", "1677", "1678"],
-        "correct_answer": "1832"
+        "question": "",
+        "options": ["a", "b", "c", "d"],
+        "correct_answer": "a"
     },
     # Vasiļjeva Anastasija
     {

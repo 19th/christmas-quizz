@@ -70,9 +70,9 @@ questions = [
     },
     # Silickis Marks
     {
-        "question": "",
-        "options": ["a", "b", "c", "d"],
-        "correct_answer": "a"
+        "question": "Tradicionāls ēdiens Jaunajam gadam?",
+        "options": ["Pica", "Sushi", "siļķe kažokā", "Shashliks"],
+        "correct_answer": "siļķe kažokā"
     },
     # Zaicevs Daņila
     {

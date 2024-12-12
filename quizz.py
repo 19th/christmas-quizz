@@ -86,7 +86,7 @@ questions = [
         "options": ["a", "b", "c", "d"],
         "correct_answer": "a"
     },
-    # Bogdanovs Ņikita
+    # Bogdanovs Ņikita 
     {
         "question": "Kuras krāsas parasti saistās ar Ziemassvētkiem?",
         "options": ["balta, zaļa un sarkana", "melna un dzeltena", "zila, balta un zaļa", "sarkana, zila un roza"],

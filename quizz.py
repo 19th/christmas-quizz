@@ -34,9 +34,9 @@ questions = [
     },
     # Kisļaks Kirills
     {
-        "question": "Cik dienas ir garā gadā?",
-        "options": ["a", "b", "c", "d"],
-        "correct_answer": "a"
+        "question": "Cik dienas ir augstā gadā?",
+        "options": ["370", "365", "368", "366"],
+        "correct_answer": "366"
     },
     # Korsaks Edvīns
     {

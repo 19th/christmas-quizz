@@ -34,7 +34,7 @@ questions = [
     },
     # Kisļaks Kirills
     {
-        "question": "",
+        "question": "Cik dienas ir garā gadā?",
         "options": ["a", "b", "c", "d"],
         "correct_answer": "a"
     },

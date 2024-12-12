@@ -90,7 +90,7 @@ questions = [
     {
         "question": "Kuras krāsas parasti saistās ar Ziemassvētkiem?",
         "options": ["balta, zaļa un sarkana", "melna un dzeltena", "zila un zaļa", "sarkana un roza"],
-        "correct_answer": "a"
+        "correct_answer": "balta, zaļa un sarkana"
     },
     # Grigorenko Artjoms
     {

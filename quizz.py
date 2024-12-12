@@ -100,9 +100,9 @@ questions = [
     },
     # Mahajevs Maksims
     {
-        "question": "",
-        "options": ["a", "b", "c", "d"],
-        "correct_answer": "a"
+        "question": "Kas ir tradicionālais ēdiens, ko bieži ēd Ziemassvētkos Latvijā?",
+        "options": ["Pankūkas", "Piparkūkas", "Kliņģeris", "Kūka"],
+        "correct_answer": "Piparkūkas"
     },
     # Mieriņs Aleksandrs
     {

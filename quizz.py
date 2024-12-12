@@ -124,9 +124,9 @@ questions = [
     },
     # Švecs Kristians
     {
-        "question": "",
-        "options": ["a", "b", "c", "d"],
-        "correct_answer": "a"
+        "question": "Kurā gada tika izdota Klementa Mūra grāmata «Nakts pirms Ziemassvētkiem?»",
+        "options": ["1832", "1936", "1677", "1678"],
+        "correct_answer": "1832"
     },
     # Vasiļjeva Anastasija
     {

@@ -88,8 +88,8 @@ questions = [
     },
     # Bogdanovs Ņikita
     {
-        "question": "",
-        "options": ["a", "b", "c", "d"],
+        "question": "Kuras krāsas parasti saistās ar Ziemassvētkiem?",
+        "options": ["balta, zaļa un sarkana", "melna un dzeltena", "zila un zaļa", "sarkana un roza"],
         "correct_answer": "a"
     },
     # Grigorenko Artjoms

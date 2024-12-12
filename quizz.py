@@ -47,7 +47,7 @@ questions = [
     # Kozinda Dmitrijs
     {
         "question": "Kāds dzīvnieks velk Ziemassvētku vecīša kamanas?",
-        "options": ["Lapsa", "Trusis", "Ezis", "Ziemeļbriedis"],
+        "options": ["La", "Trusis", "Ezis", "Ziemeļbriedis"],
         "correct_answer": "Ziemeļbriedis"
     },
     # Nosovs Artjoms
@@ -86,7 +86,7 @@ questions = [
         "options": ["a", "b", "c", "d"],
         "correct_answer": "a"
     },
-    # Bogdanovs Ņikita  
+    # Bogdanovs Ņikita
     {
         "question": "Kuras krāsas parasti saistās ar Ziemassvētkiem?",
         "options": ["balta, zaļa un sarkana", "melna un dzeltena", "zila, balta un zaļa", "sarkana, zila un roza"],

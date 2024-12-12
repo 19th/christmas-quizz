@@ -22,7 +22,7 @@ questions = [
     },
     # Dmitrijevs Kirils
     {
-        "question": "",
+        "question": "Ko tradicionali novieto zem Egliti?",
         "options": ["a", "b", "c", "d"],
         "correct_answer": "a"
     },
